@@ -1,19 +1,19 @@
 # rafaelModa-mariana
 Projeto do semestre
-Tema:nm
+Tema: Guia Mackenzie
 
-Público-alvo:
+Público-alvo: Mackenzistas
 
-Objetivos do site:
+Objetivos do site: Trazer informações a respeito do campus
 
-Funcionalidades do site:
+Funcionalidades do site: Mapa, rotas, eventos, serviços, estabelecimentos, faculdades
 
-Usuário Administrador:
+Usuário Administrador: Administrar os usuarios, atualizar as informações
 
-Usuário Logado:
+Usuário Logado: Acesso a turmas, faculdades, eventos, rotas e serviços
 
-Usuário Visitante:
+Usuário Visitante: Apenas visualizar o mapa e estabelecimentos
 
-Mapa de Navegação:
+Mapa de Navegação: [fluxograma de navegação](fluxograma.pdf)
 
 Wireframe:
